@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="4choor3" width="100%">
+<img src="assets/banner.jpg" alt="u2tt" width="100%">
 
 <br>
 
-<a href="https://4choor3.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-4choor3.github.io-4E9A4E?style=flat-square&logo=hexo&logoColor=white" alt="Blog"></a>
-<a href="https://github.com/4choor3?tab=followers"><img src="https://img.shields.io/github/followers/4choor3?style=flat-square&label=Followers&color=4E9A4E" alt="Followers"></a>
+<a href="https://u2tt.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-u2tt.github.io-4E9A4E?style=flat-square&logo=hexo&logoColor=white" alt="Blog"></a>
+<a href="https://github.com/u2tt?tab=followers"><img src="https://img.shields.io/github/followers/u2tt?style=flat-square&label=Followers&color=4E9A4E" alt="Followers"></a>
 <img src="https://img.shields.io/badge/Base-%E5%8D%97%E4%BA%AC-4E9A4E?style=flat-square&logo=googlemaps&logoColor=white" alt="Nanjing">
 
 </div>
@@ -16,7 +16,7 @@
 
 - **A 股量化** —— Python 工具链处理前复权日线：数据清洗、因子构造、策略回测
 - **Linux 日常** —— Arch 当主力系统，重复劳动一律交给脚本
-- **项目记录** —— 折腾过的东西都记在[博客](https://4choor3.github.io)
+- **项目记录** —— 折腾过的东西都记在[博客](https://u2tt.github.io)
 
 ## 技术栈
 
@@ -46,11 +46,11 @@
 
 | 项目 | 是什么 | 技术栈 |
 |:---|:---|:---|
-| **[RP2040 Mini TXT Reader](https://github.com/4choor3/rp2040-txt-reader)** | 成本 ¥30 以内的口袋 TXT 阅读器：插上 Type-C 就是 U 盘，拖进 `book.txt` 开机即读，无需烧录 | CircuitPython · RP2040 · SPI · ST7735 |
-| **[4choor3.github.io](https://4choor3.github.io)** | 个人博客，记录量化、Python 与工具折腾 | Hexo · GitHub Pages |
+| **[RP2040 Mini TXT Reader](https://github.com/u2tt/rp2040-txt-reader)** | 成本 ¥30 以内的口袋 TXT 阅读器：插上 Type-C 就是 U 盘，拖进 `book.txt` 开机即读，无需烧录 | CircuitPython · RP2040 · SPI · ST7735 |
+| **[u2tt.github.io](https://u2tt.github.io)** | 个人博客，记录量化、Python 与工具折腾 | Hexo · GitHub Pages |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4choor3/rp2040-txt-reader/main/assets/01-pi-demo-wiring.jpg" width="420" alt="RP2040 Mini TXT Reader 实机">
+  <img src="https://raw.githubusercontent.com/u2tt/rp2040-txt-reader/main/assets/01-pi-demo-wiring.jpg" width="420" alt="RP2040 Mini TXT Reader 实机">
   <br><sub>▲ RP2040 Mini TXT Reader · 圆周率演示与全套硬件接线</sub>
 </p>
 
