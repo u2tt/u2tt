@@ -13,8 +13,10 @@
 
 生物科学在读，玩电脑比做实验的时间长。
 
-- **日常** —— macOS主力系统，游戏本配置arch使用
-- **项目记录** —— 日常工作和项目记录[博客](https://u2tt.github.io)
+- **环境** —— macOS 主力系统，游戏本配 Arch 使用
+- **记录** —— 日常工作和项目记录在[博客](https://u2tt.github.io)
+- 日常 —— 不定期更新仓库和 Vibe coding 出的奇奇怪怪的软件和工具
+- 交互 —— 喜欢给喜欢的项目提 PR
 
 ## 技术栈
 
@@ -45,5 +47,5 @@
 | 项目 | 描述 | 技术栈 |
 |:---|:---|:---|
 | **[RP2040 Mini TXT Reader](https://github.com/u2tt/rp2040-txt-reader)** | 嵌入式工程尝试 | CircuitPython · RP2040 · SPI · ST7735 |
-| **[u2tt.github.io](https://u2tt.github.io)** | 个人博客，随便写的东西 | Hexo · GitHub Pages |
-| **[Lumina](https://github.com/u2tt/Lumina)** | 把**本地视频**当作 macOS 桌面壁纸。 | Switch · Shell |
+| **[u2tt.github.io](https://u2tt.github.io)** | 个人博客，有一些随便写的东西 | Hexo · GitHub Pages |
+| **[Lumina](https://github.com/u2tt/Lumina)** | **本地视频**渲染 macOS 桌面视频壁纸。 | Switch · Shell |
