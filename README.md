@@ -29,6 +29,7 @@
 </div>
 
 <div align="center">
+
 [![dsh](https://img.shields.io/badge/dsh-DeepSeek%20Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
 [![zsh](https://img.shields.io/badge/zsh-4E9A4E?style=flat-square&logo=zsh&logoColor=white)](https://www.zsh.org)
